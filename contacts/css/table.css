@@ -1,0 +1,16 @@
+tr{
+    border: 1px solid;
+}
+thead{
+    background-color: yellowgreen;
+}
+tbody{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    border: 0 solid;
+}

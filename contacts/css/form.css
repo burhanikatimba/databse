@@ -1,0 +1,40 @@
+.bur{
+    width: max-content;
+    padding: 1em 1em 1em 1em;
+    box-shadow: 0 0 3px;
+    border-radius: 1em;
+    margin: auto;
+}
+input{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 1em;
+    border: 0 solid;
+    background-color: gainsboro;
+}
+input:focus{
+    outline-color: aquamarine;
+}
+.submit{
+    width: 100px;
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
+.error{
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: crimson;
+    color: whitesmoke;
+    width: 220px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+label{
+    margin: 3px 0;
+}
